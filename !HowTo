@@ -1,0 +1,7 @@
+Esimene kord jooksutada see command terminalis, enne programmi käivitamist ja samuti iga kord kui on muudatusi mõnes scriptis tehtud:
+
+go build -o notestool main.go readfile.go writefile.go
+
+Programmi käivitamiseks terminali see command:
+
+./notestool coding_ideas
